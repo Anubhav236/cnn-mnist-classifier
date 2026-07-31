@@ -54,4 +54,4 @@ cnn-mnist-classifier/
 
 ## 👤 Author
 Anubhav Choudhary
-GitHub: https://github.com/YourUsername
+GitHub: https://github.com/Anubhav236
